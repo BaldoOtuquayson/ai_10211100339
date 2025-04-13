@@ -124,3 +124,5 @@ Leveraging **Large Language Models (LLMs)**, this section introduces a real-worl
 - **Generative Response**: The AI uses the combined text and query to produce contextually relevant answers.
 
 This application serves as both a learning resource and a demonstration platform for essential ML and AI techniques. It highlights the growing impact of intelligent systems and encourages further exploration into their design and implementation.
+
+**Done by Baldo Giorgio Otu-Quayson**
