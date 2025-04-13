@@ -8,4 +8,6 @@ tensorflow == 2.16.2
 python-dotenv == 1.1.0
 langchain == 0.1.11
 google-generativeai
-PyMuPDFLoader
+pymupdf
+pymupdf-loader
+tqdm
